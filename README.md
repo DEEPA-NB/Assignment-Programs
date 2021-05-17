@@ -43,8 +43,11 @@ System.out.println(" ");
 And in the main method I have called the trianglepattern method with n value.
 
 public static void main(String[] args)
+
 {
+
 trianglepattern(5);
+
 } 
 
 
