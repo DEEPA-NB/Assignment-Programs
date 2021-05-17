@@ -19,9 +19,17 @@ System.out.print(" ");
 
 
 
-In the inner most for loop i have written if-else blocks to get the required output.
+Next I have used one more for loop to print the star. inside that for loop I have written if-else blocks to get the required output.
 
 In the if block I have written 3 conditions with OR operator for where we have to print star.
+
+
+for ( int k=1; k<=(2*i-1) ;k++)   
+{  
+if(k==1 ||  k==(2*i-1) || i==n)   
+{  
+System.out.print("*");  
+}  
 
 
 In else block I have written a print statement for not to print star.
