@@ -7,7 +7,15 @@ For that I have written one mothod called trianglepattern.
 
 In that method I have declared one variable n which is used to provide the number of rows.
 
-And i have written three for loops to print the star pattern.
+And i have written two for loops to provide spacing between the stars.
+
+
+for (int i=1;i<=n;i++)  
+{  
+for (int j=i; j<n ;j++)   
+{  
+System.out.print(" ");  
+}  
 
 
 
