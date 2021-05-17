@@ -41,3 +41,8 @@ In outer for loop i have written a println statement to go to next line.
 System.out.println(" ");
 
 And in the main method I have called the trianglepattern method with n value.
+
+public static void main(String[] args)
+{
+trianglepattern(5);
+} 
