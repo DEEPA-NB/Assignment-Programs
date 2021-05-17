@@ -1,7 +1,7 @@
 import java.util.Scanner;  
 public class Pattern1  
 {  
-public static void pat(int n)  
+public static void trianglepattern(int n)  
 {  
  
 for (int i=1;i<=n;i++)  
@@ -26,6 +26,6 @@ System.out.println("");
 } 
 public static void main(String[] args)
 {
-pat(5);
+trianglepattern(5);
 } 
 }  
