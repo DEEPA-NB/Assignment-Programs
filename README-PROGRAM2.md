@@ -50,13 +50,13 @@ By writing this code we can get the output as follows.
      10
      Enter columns :
      15
-+-------------+
-|             |
-|             |
-|             |
-|             |
-|             |
-|             |
-|       Deepa |
-|             |
-+-------------+
+     +-------------+
+     |             |
+     |             |
+     |             |
+     |             |
+     |             |
+     |             |
+     |       Deepa |
+     |             |
+     +-------------+
